@@ -26,12 +26,12 @@
 		{
 			name: 'SvelteKit',
 			icon: `${baseIconsURL}/svelte`,
-			site: 'https://dotnet.microsoft.com/en-us/languages/csharp'
+			site: 'https://kit.svelte.dev/'
 		},
 		{
 			name: 'Git',
 			icon: `${baseIconsURL}/git`,
-			site: 'https://tailwindcss.com'
+			site: 'https://git-scm.com/'
 		},
 		{
 			name: 'Firebase',
