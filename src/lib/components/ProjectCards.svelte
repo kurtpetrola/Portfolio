@@ -5,6 +5,38 @@
 
 <div class="projects md:space-y-2 mt-5">
 	<ItemCard
+		timespan="July 2023 - October 2023"
+		href="https://github.com/kurtpetrola/StackIT.git"
+		role="Stack IT!"
+		short_desc="a simple stacking game made with Unity."
+		external_links={[
+			{
+				url: 'https://github.com/kurtpetrola/StackIT.git',
+				label: 'Stack IT!'
+			}
+		]}
+		tags={['Unity', 'C#', 'VSCode']}
+	>
+		Stack IT! is a casual mobile game in which players must stack blocks as high as possible. The
+		game features a variety of power-ups that can help players reach higher scores.
+	</ItemCard>
+	<ItemCard
+		timespan="July 2023 - October 2023"
+		href="https://github.com/kurtpetrola/LosHeroes.git"
+		role="Los Heroes"
+		short_desc="a 2D turn-based role-playing game (RPG) made with Unity."
+		external_links={[
+			{
+				url: 'https://github.com/kurtpetrola/LosHeroes.git',
+				label: 'Los Heroes'
+			}
+		]}
+		tags={['Unity', 'C#', 'VSCode']}
+	>
+		Los Héroes is a free-to-play, turn-based role-playing game (RPG). The game is set in the Spanish
+		era, and tells the story of a man who stumbles upon a relic that allows him to revisit history.
+	</ItemCard>
+	<ItemCard
 		timespan="January 2023 - March 2023"
 		href="https://github.com/kurtpetrola/ACE-NEW.git"
 		role="Academia Classroom Explorer"
@@ -39,7 +71,8 @@
 		programming language to IT students of PHINMA-University of Pangasinan. It also has a quiz that
 		will test the users knowledge.
 	</ItemCard>
-	<ItemCard
+
+	<!-- <ItemCard
 		timespan="March 2022 - April 2022"
 		href="https://github.com/kurtpetrola/ATM-Project.git"
 		role="ATM Project"
@@ -56,5 +89,5 @@
 		account, with that user are able to withdraw, deposit, and view their account balance. <!--<AnimatedLink
 			href="https://github.com/kurtpetrola/ATM-Project.git">ATM Project</AnimatedLink
 		> -->
-	</ItemCard>
+	<!-- </ItemCard> -->
 </div>
