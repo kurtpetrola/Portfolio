@@ -19,7 +19,7 @@
 		I had the opportunity to collaborate with a group of individuals I had not previously worked
 		with. We worked together to develop an application for IT/CS students to learn Swift programming
 		language and iOS development. It encourage students to try developing iOS applications using
-		Swift. We are fortunate enough to present our application in an exhibit at PHINMA-University or
+		Swift. We are fortunate enough to present our application in an exhibit at PHINMA-University of
 		Pangasinan.
 	</ItemCard>
 </div>

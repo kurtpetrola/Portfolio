@@ -1,7 +1,7 @@
 <script>
 	import { Card, Img } from 'flowbite-svelte';
 
-	let baseIconsURL = 'https://cdn.simpleicons.org/';
+	let baseIconsURL = 'https://cdn.simpleicons.org';
 	let skillsWithIcons = [
 		{
 			name: 'Flutter',
